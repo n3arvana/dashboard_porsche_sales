@@ -205,4 +205,4 @@ o caminho local do arquivo como se fosse um endereço público.
   Arquivo                `dashboard_porsche.html`
   Tecnologias            HTML, CSS, JavaScript e Chart.js
   Filtros                Modelo, ano do modelo, estado, cidade e forma de pagamento
-  Hospedagem pública     Ainda não configurada/confirmada
+  Hospedagem pública     https://n3arvana.github.io/dashboard_porsche_sales/
