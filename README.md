@@ -198,11 +198,10 @@ o caminho local do arquivo como se fosse um endereço público.
 
 ## Resumo técnico
 
-  Item                   Descrição
-  ---------------------- ------------------------------------------------------------
-  Fonte                  `porsche_database_sanitized(1).xlsx`, aba `Sanitized`
-  Registros analisados   100
-  Arquivo                `dashboard_porsche.html`
-  Tecnologias            HTML, CSS, JavaScript e Chart.js
-  Filtros                Modelo, ano do modelo, estado, cidade e forma de pagamento
-  Hospedagem pública     https://n3arvana.github.io/dashboard_porsche_sales/
+- **Fonte:** `porsche_database_sanitized(1).xlsx`
+- **Aba utilizada:** `Sanitized`
+- **Registros analisados:** 100
+- **Arquivo:** `dashboard_porsche.html`
+- **Tecnologias:** HTML, CSS, JavaScript e Chart.js
+- **Filtros:** Modelo Porsche, ano do modelo (Model Year), estado, cidade e forma de pagamento.
+- **Hospedagem pública:** [Acessar Dashboard Porsche Sales](https://n3arvana.github.io/dashboard_porsche_sales/)
