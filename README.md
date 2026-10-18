@@ -1,5 +1,7 @@
 # Dashboard de Vendas Porsche
 
+[Acessar Dashboard Porsche Sales](https://n3arvana.github.io/dashboard_porsche_sales/)
+
 ## 1. Visão geral
 
 Projeto de dashboard interativa para explorar vendas de veículos
@@ -204,4 +206,3 @@ o caminho local do arquivo como se fosse um endereço público.
 - **Arquivo:** `dashboard_porsche.html`
 - **Tecnologias:** HTML, CSS, JavaScript e Chart.js
 - **Filtros:** Modelo Porsche, ano do modelo (Model Year), estado, cidade e forma de pagamento.
-- **Hospedagem pública:** [Acessar Dashboard Porsche Sales](https://n3arvana.github.io/dashboard_porsche_sales/)
